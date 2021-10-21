@@ -1,0 +1,2 @@
+00 8 * * 1-5 curl wttr.in/lyon > /home/theop/day3/exo3/meteoOfTheDay.txt
+
